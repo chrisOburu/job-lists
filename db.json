@@ -27,6 +27,7 @@
       "title": "Graphic Designer",
       "description": "We are hiring a creative graphic designer to design visually appealing graphics for our marketing materials and products.",
       "company": "Design Innovations Inc",
+      "industry": "Technology",
       "location": "Eldoret",
       "date_posted": "2024-05-04"
     },
@@ -266,6 +267,7 @@
       "title": "School Principal",
       "description": "Provide leadership and management to the school, oversee academic programs, and foster a positive learning environment.",
       "company": "Kisii International School",
+      "industry": "Education",
       "location": "Kisii",
       "date_posted": "2024-05-02"
     },
